@@ -75,8 +75,5 @@ function eliminarFruta(fruta) {
         frutas.splice(index, 1); 
     } 
 } 
-// Desarrollador 3 Brandon Loria
-imprimirFrutas(); 
 
-eliminarFruta("plátano");
 
