@@ -87,3 +87,9 @@ console.log(division(6, 3));
 console.log(potencia(2, 3));
 
 console.log(raizCuadrada(9));
+
+// Desarrollador 1 Jenny. G
+console.log(porcentaje(100, 20)); 
+console.log(promedio([2, 3, 5, 7, 11])); 
+
+ 
