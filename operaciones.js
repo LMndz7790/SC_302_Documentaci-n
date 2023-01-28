@@ -109,12 +109,3 @@ function eliminarFruta(fruta) {
     } 
 } 
 
-// Desarrollador 4
-
-// Desarrollador 4
-
-// Desarrollador 3
-
-// Desarrollador 1
-imprimirFrutas();
-
