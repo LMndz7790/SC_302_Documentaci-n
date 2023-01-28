@@ -61,3 +61,13 @@ function maximo(numeros) {
     return max;
 }
 
+// Desarrollador 2 Luis Méndez
+function minimo(numeros) {
+    let min = numeros[0];
+    for (let i = 1; i < numeros.length; i++) {
+        if (numeros[i] < min) {
+            min = numeros[i];
+        }
+    }
+    return min;
+}
