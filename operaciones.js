@@ -98,3 +98,5 @@ console.log(factorial(5));
 
 console.log(maximo([2, 3, 5, 7, 11]));
 
+/ Desarrollador 4 Fernando Chacon
+console.log(minimo([2, 3, 5, 7, 11]));
