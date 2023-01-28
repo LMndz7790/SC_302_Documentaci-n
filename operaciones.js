@@ -27,3 +27,7 @@ function potencia(base, exponente) {
 function raizCuadrada(n) {
     return Math.sqrt(n);
 }
+// Desarrollador 4 Fernando Chacon
+function porcentaje(n, porcentaje) { 
+    return (n * porcentaje) / 100; 
+} 
