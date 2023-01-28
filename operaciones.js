@@ -49,3 +49,15 @@ function factorial(n) {
     } 
     return resultado; 
 }  
+
+// Desarrollador 3 Brandon Loria
+function maximo(numeros) {
+    let max = numeros[0];
+    for (let i = 1; i < numeros.length; i++) {
+        if (numeros[i] > max) {
+            max = numeros[i];
+        }
+    }
+    return max;
+}
+
