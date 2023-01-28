@@ -9,3 +9,7 @@ function resta(a, b) {
     return a - b;
 }
 
+// Desarrollador 1 Jenny Gong
+function multiplicacion(a,b){
+    return a * b;
+}
