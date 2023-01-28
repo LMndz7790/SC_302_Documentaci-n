@@ -21,7 +21,7 @@ agregarFruta("kiwi");
 
 // Desarrollador 3 Brandon Loria
 imprimirFrutas(); 
-
+eliminarFruta("plátano");
 
 // Desarrollador 1 Jenny Gong
 imprimirFrutas();
