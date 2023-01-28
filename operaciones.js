@@ -13,8 +13,12 @@ function multiplicacion (a, b){
     return a * b; 
 } 
 
-// Desarrollador 4
+// Desarrollador 4 Fernando Chacon
+function division(a, b) { 
 
+    return a / b; 
+
+} 
 
 //Desarrollador 1 Jenny Gong
 function potencia(base, exponente){
@@ -27,7 +31,12 @@ function raizCuadrada(n) {
     return Math.sqrt(n); 
 } 
 
-// Desarrollador 4
+// Desarrollador 4 Fernando Chacon
+function porcentaje(n, porcentaje) { 
+
+    return (n * porcentaje) / 100; 
+
+} 
 
 // Desarrollador 1 Jenny Gong
 function promedio(numeros){
@@ -37,7 +46,20 @@ function promedio(numeros){
     return suma / numeros.length;
 }
 
-// Desarrollador 4
+// Desarrollador 4 Fernando Chacon
+function factorial(n) { 
+
+    let resultado = 1; 
+
+    for (let i = 1; i <= n; i++) { 
+
+        resultado *= i; 
+
+    } 
+
+    return resultado; 
+
+}  
 
 // Desarrollador 3 Brandon Loria
 function maximo(numeros) {
@@ -86,5 +108,7 @@ console.log(factorial(5));
 
 console.log(maximo([2, 3, 5, 7, 11]));
 
-// Desarrollador 4
+// Desarrollador 4 Fernando Chacon
+console.log(minimo([2, 3, 5, 7, 11]));
+
 
