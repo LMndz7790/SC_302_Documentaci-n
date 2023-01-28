@@ -88,24 +88,3 @@ console.log(maximo([2, 3, 5, 7, 11]));
 
 // Desarrollador 4
 
-// Desarrollador 1 
-let frutas = ["manzanas", "plátano","pera", "mango"];
-
-// Desarrollador 2 
-function imprimirFrutas() { 
-    console.log(frutas); 
-} 
-
-// Desarrollador 3 Brandon Loria
-function agregarFruta(fruta) {
-    frutas.push(fruta);
-}
-
-// Desarrollador 2 
-function eliminarFruta(fruta) { 
-    let index = frutas.indexOf(fruta); 
-    if (index > -1) { 
-        frutas.splice(index, 1); 
-    } 
-} 
-
