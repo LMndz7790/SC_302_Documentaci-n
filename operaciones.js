@@ -23,3 +23,7 @@ function potencia(base, exponente) {
     return Math.pow(base, exponente); 
 
 } 
+// Desarrollador 2 Luis Méndez
+function raizCuadrada(n) {
+    return Math.sqrt(n);
+}
